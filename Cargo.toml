@@ -1,5 +1,5 @@
 [package]
-name = "ssfd-rs"
+name = "ssfd"
 version = "0.1.0"
 authors = ["Didy KUPANHY <d.kupanhy@gmail.com>"]
 edition = "2018"
